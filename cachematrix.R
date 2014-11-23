@@ -58,4 +58,4 @@ cacheSolve <- function(x, ...) {
 # t2 <- proc.time() - t2
 
 ## Value of t1 (i.e. when inverse was NOT cached) = 13 sec
-## Value of t1 (i.e. when inverse was cached) = 0 sec
+## Value of t2 (i.e. when inverse was cached) = 0 sec
